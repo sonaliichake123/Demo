@@ -1,3 +1,3 @@
 # Demo
 This is my first  git Repository.
-Auther-Sonali
+Author-Sonali
